@@ -1,1 +1,2 @@
-print("Wassup Buddy!! having nice day or bad?")
+print("Wassup Homie !!!")
+
